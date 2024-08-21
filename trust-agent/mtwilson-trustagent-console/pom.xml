@@ -130,7 +130,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.1.0.RC2</version>
+            <version>9.4.51.v20230217</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -145,7 +145,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-http</artifactId>
-            <version>9.1.0.RC2</version>
+            <version>9.4.53.v20231009</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -161,7 +161,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
-            <version>9.1.0.RC2</version>
+            <version>9.4.33.v20201020</version>
         </dependency>
         <!-- to direct all logging to slf4j , together with slf4j adapters for commons-logging, log4j etc -->
         <dependency>
@@ -183,7 +183,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-xml</artifactId>
-            <version>9.1.0.RC2</version>
+            <version>9.4.52.v20230823</version>
         </dependency>
         <!-- end jetty -->
     </dependencies>
